@@ -17,3 +17,10 @@ Django web app which uses MySQL as the backend database, styling done with Boots
 - You can filter by cuisine/allergies to avoid/flavour profile etc. by the filter boxes on the left and clicking `Apply`.
 - You can open the individual dish recipe page by clicking on the dish card.
 - Return to the main page at anytime by clicking `Popeye Recipe Manager` at the top of the page.
+
+## Screenshots
+
+![Main page](./screens/main.jpg "Main page")
+\
+\
+![Recipe page](./screens/recipe.jpg "Recipe page")
